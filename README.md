@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Nimit, a Computer Science Graduate student at NYU. 
+
+🔭 Currently, a Quant Developer at [Sov AI](https://sov.ai/)
+🖥️ Previously a Software Engineer at [Hevo Data](https://hevodata.com/).
+🎓 Bachelor of Engineering in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in/).
+🎓 Master of Science in Economics from [BITS Pilani](https://www.bits-pilani.ac.in/).
+💬 Contact me: nimitmk7@gmail.com
+
+I'm open to Machine Learning Engineer and Quant Developer opportunities.
