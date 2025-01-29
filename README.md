@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Nimit, a Computer Science Graduate student at NYU. 
 
-- 🔭 Currently, a Quant Developer at [Sov AI](https://sov.ai/)
+- 🔭 Previously, a Quant Developer Intern at [Sov AI](https://sov.ai/)
 - 🖥️ Previously a Software Engineer at [Hevo Data](https://hevodata.com/).
 - 🎓 Bachelor of Engineering in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in/).
 - 🎓 Master of Science in Economics from [BITS Pilani](https://www.bits-pilani.ac.in/).
