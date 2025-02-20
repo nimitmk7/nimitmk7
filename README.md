@@ -34,6 +34,7 @@ I'm open to Machine Learning Engineer and Quant Developer opportunities.
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="AWS" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Spark" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" alt="Kafka" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="kubernetes" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="pandas" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="opencv" width="60" height="60"/>&nbsp;
