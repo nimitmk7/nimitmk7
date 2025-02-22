@@ -23,7 +23,7 @@ I'm Nimit, a Computer Science Graduate student at NYU.
 - 🎓 Master of Science in Economics from [BITS Pilani](https://www.bits-pilani.ac.in/).
 - 💬 Contact me: nimitmk7@gmail.com 
 
-I'm open to Machine Learning Engineer and Quant Developer opportunities.
+I'm open to Machine Learning Engineer, Software Engineer and Quant Developer opportunities.
 
 ---
 
